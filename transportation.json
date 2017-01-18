@@ -1,111 +1,111 @@
 [
   {
-    "COUNTYNAME":"新北市",
+    "COUNTYNAME":"New Taipei City",
     "population":3961374,
     "share":43.6
   },
   {
-    "COUNTYNAME":"高雄市",
+    "COUNTYNAME":"Kaohsiung City",
     "population":2777461,
     "share":14.4
   },
   {
-    "COUNTYNAME":"臺中市",
+    "COUNTYNAME":"Taichung City",
     "population":2712948,
     "share":14.9
   },
   {
-    "COUNTYNAME":"臺北市",
+    "COUNTYNAME":"Taipei City",
     "population":2695649,
     "share":53.3
   },
   {
-    "COUNTYNAME":"桃園市",
+    "COUNTYNAME":"Taoyuan City",
     "population":2054260,
     "share":20.0
   },
   {
-    "COUNTYNAME":"臺南市",
+    "COUNTYNAME":"Tainan City",
     "population":1883493,
     "share":12.0
   },
   {
-    "COUNTYNAME":"彰化縣",
+    "COUNTYNAME":"Changhua County",
     "population":1292126,
     "share":13.2
   },
   {
-    "COUNTYNAME":"屏東縣",
+    "COUNTYNAME":"Pingtung County",
     "population":849326,
     "share":14.2
   },
   {
-    "COUNTYNAME":"雲林縣",
+    "COUNTYNAME":"Yunlin Countyㄋ",
     "population":706688,
     "share":15.3
   },
   {
-    "COUNTYNAME":"苗栗縣",
+    "COUNTYNAME":"Miaoli County",
     "population":566918,
     "share":11.0
   },
   {
-    "COUNTYNAME":"新竹縣",
+    "COUNTYNAME":"Hsinchu County",
     "population":536111,
     "share":13.8
   },
   {
-    "COUNTYNAME":"嘉義縣",
+    "COUNTYNAME":"Chiayi County",
     "population":526028,
     "share":15.0
   },
   {
-    "COUNTYNAME":"南投縣",
+    "COUNTYNAME":"Nantou County",
     "population":515081,
     "share":12.5
   },
   {
-    "COUNTYNAME":"宜蘭縣",
+    "COUNTYNAME":"Yilan County",
     "population":458784,
     "share":17.2
   },
   {
-    "COUNTYNAME":"新竹市",
+    "COUNTYNAME":"Hsinchu City",
     "population":431029,
     "share":13.8
   },
   {
-    "COUNTYNAME":"基隆市",
+    "COUNTYNAME":"Keelung City",
     "population":373597,
     "share":46.8
   },
   {
-    "COUNTYNAME":"花蓮縣",
+    "COUNTYNAME":"Hualien County",
     "population":333531,
     "share":11.9
   },
   {
-    "COUNTYNAME":"嘉義市",
+    "COUNTYNAME":"Keelung City",
     "population":270885,
     "share":12.3
   },
   {
-    "COUNTYNAME":"臺東縣",
+    "COUNTYNAME":"Taitung County",
     "population":224931,
     "share":13.1
   },
   {
-    "COUNTYNAME":"金門縣",
+    "COUNTYNAME":"Kinmen County",
     "population":126156,
     "share":15.1
   },
   {
-    "COUNTYNAME":"澎湖縣",
+    "COUNTYNAME":"Penghu County",
     "population":101482,
     "share":12.0
   },
   {
-    "COUNTYNAME":"連江縣",
+    "COUNTYNAME":"Lienchiang County",
     "population":12481,
     "share":23.5
   }
